@@ -1,8 +1,8 @@
-# Magic Bottle 🍾
+# Aspirin 💊
 
 A demo for GSAP and Three.js
 
-[Magic Bottle](https://magic-bottle.netlify.app/)
+[Aspirin](https://aspirin.netlify.app/)
 
 ## Prerequisite
 
